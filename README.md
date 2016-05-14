@@ -1,2 +1,2 @@
 # hello-world
-I am heare for te code
+I am heare for the code
